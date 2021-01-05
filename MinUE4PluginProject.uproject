@@ -5,12 +5,9 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "MinUE4PluginProject",
+			"Name": "MinUE4Project",
 			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [

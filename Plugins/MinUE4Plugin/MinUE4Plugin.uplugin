@@ -24,11 +24,6 @@
 				"Win32",
 				"Android"
 			]
-		},
-		{
-			"Name": "MinUE4PluginEditor",
-			"Type": "Editor",
-			"LoadingPhase": "PostEngineInit"
 		}
 	]
 }
